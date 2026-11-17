@@ -1,0 +1,2 @@
+"factors","variance_share","percent_total_standardized_item_variance","estimator","interpretation"
+1,0.194587000182992,19.4587000182992,"legacy numeric Pearson ML EFA; no rotation","Descriptive Harman screen only; cannot establish absence of common-method bias"

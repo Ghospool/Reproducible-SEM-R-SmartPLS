@@ -1,0 +1,5 @@
+"analysis","estimator","item_treatment","n","n_items","note"
+"cfa_wlsmv","WLSMV","ordered",400,22,"Six-factor correlated CFA"
+"sem_wlsmv","WLSMV","ordered",400,22,"Main five-predictor intention SEM"
+"sem_mlr_continuous","MLR","continuous_approximation",400,22,"Same rows/items as main SEM; different estimator and measurement approximation"
+"sem_wlsmv_without_moral","WLSMV","ordered",400,19,"Distinct sensitivity: removes MORAL_NORM measurement and predictor, not original main model"

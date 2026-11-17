@@ -1,0 +1,20 @@
+# Session state and local machine settings
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# Regenerable analyses; dedicated synthetic inputs/reference examples remain tracked.
+outputs/
+outputs_*/
+paper-example/outputs*/
+*.Rout
+
+# Never stage participant/raw/private files in this public repository.
+private/
+raw/
+input/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+"model","requested_estimator","engine_estimator","standard_errors","tests","ordered_item_count","n","std_lv","role"
+"cfa_mlr","MLR","ML","robust.huber.white","standard;yuan.bentler.mplus",0,500,TRUE,"primary continuous approximation"
+"sem_mlr","MLR","ML","robust.huber.white","standard;yuan.bentler.mplus",0,500,TRUE,"primary continuous approximation"
+"sem_wlsmv","WLSMV","DWLS","robust.sem","standard;scaled.shifted",20,500,TRUE,"separate ordinal sensitivity"

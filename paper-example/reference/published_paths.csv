@@ -1,0 +1,15 @@
+source,target,published_standardized,published_se,published_t,source_table
+ATT,INT,0.148,0.072,2.072,Table 6 row 1
+MORAL_NORM,INT,0.152,0.068,2.247,Table 6 row 2
+SUB_NORM,INT,0.178,0.069,2.553,Table 6 row 3
+PBC,INT,0.145,0.057,2.548,Table 6 row 4
+KNOWLEDGE,INT,0.156,0.068,2.336,Table 6 row 5
+ATT,PBC,0.025,0.086,0.316,Table 6 row 6
+KNOWLEDGE,PBC,0.130,0.079,1.631,Table 6 row 7
+MORAL_NORM,PBC,0.121,0.079,1.519,Table 6 row 8
+SUB_NORM,PBC,0.124,0.077,1.549,Table 6 row 9
+KNOWLEDGE,ATT,0.343,0.066,2.200,Table 6 row 10
+MORAL_NORM,ATT,0.333,0.055,5.933,Table 6 row 11
+SUB_NORM,ATT,0.235,0.059,3.990,Table 6 row 12
+KNOWLEDGE,MORAL_NORM,0.287,0.063,4.532,Table 6 row 13
+KNOWLEDGE,SUB_NORM,0.509,0.057,8.871,Table 6 row 14

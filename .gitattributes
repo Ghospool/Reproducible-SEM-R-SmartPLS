@@ -1,0 +1,8 @@
+# Keep generated data and provenance checksums stable across Git checkouts.
+* text=auto
+*.R text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.dcf text eol=lf
+*.json text eol=lf
+*.Rproj text eol=lf

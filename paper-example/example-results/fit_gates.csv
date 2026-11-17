@@ -1,0 +1,13 @@
+"model","gate","minimum_eigenvalue","passed"
+"cfa_mlr","convergence_and_positive_variances",NA,TRUE
+"cfa_mlr","latent_covariance",0.461691229914939,TRUE
+"cfa_mlr","indicator_residual_covariance",0.699217153878868,TRUE
+"cfa_mlr","implied_observed_covariance",0.764919584011599,TRUE
+"sem_mlr","convergence_and_positive_variances",NA,TRUE
+"sem_mlr","latent_covariance",0.546828112061028,TRUE
+"sem_mlr","indicator_residual_covariance",0.69923929378884,TRUE
+"sem_mlr","implied_observed_covariance",0.764929671395321,TRUE
+"sem_wlsmv","convergence_and_positive_variances",NA,TRUE
+"sem_wlsmv","latent_covariance",0.556172320264934,TRUE
+"sem_wlsmv","indicator_residual_covariance",0.297107469667855,TRUE
+"sem_wlsmv","implied_observed_covariance",0.335469942055786,TRUE

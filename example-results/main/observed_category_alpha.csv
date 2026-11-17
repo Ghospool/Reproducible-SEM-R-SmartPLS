@@ -1,0 +1,7 @@
+"factor","n_items","raw_alpha","standardized_alpha","caveat"
+"INT",6,0.884285646387833,0.884467021280978,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."
+"ATT",3,0.789641930079714,0.789991923018828,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."
+"SUB_NORM",3,0.765033984577403,0.764993573607988,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."
+"PBC",4,0.835096065568959,0.835192136371909,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."
+"KNOWLEDGE",3,0.783525883045038,0.783180881250421,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."
+"MORAL_NORM",3,0.786092044238316,0.786161818942578,"Pearson alpha treats ordinal categories as numeric; not ordinal alpha, validity evidence, or a unidimensionality test."

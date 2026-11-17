@@ -1,0 +1,7 @@
+"construct","alpha_below_070","composite_below_070","AVE_below_050","sqrt_AVE_not_above_absolute_latent_correlations","note"
+"ATT",FALSE,FALSE,TRUE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"
+"INT",FALSE,FALSE,FALSE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"
+"SUB_NORM",FALSE,FALSE,FALSE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"
+"PBC",FALSE,FALSE,FALSE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"
+"MORAL_NORM",FALSE,FALSE,FALSE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"
+"KNOWLEDGE",TRUE,TRUE,TRUE,FALSE,"Contextual heuristic only; no automatic item deletion or validity verdict"

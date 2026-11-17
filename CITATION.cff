@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "For the published use case, cite the article below. This repository provides independent synthetic teaching examples, not numerical replication of the study. See THIRD_PARTY_NOTICES.md for article licensing."
+type: software
+title: "Reproducible SEM in R and SmartPLS: tutorial and published-paper worked example"
+authors:
+  - name: "Ghospool"
+repository-code: "https://github.com/Ghospool/SEM---R-SmartPLS"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Understanding farmers' motivations for joining cashew marketing cooperatives in coastal Kenya: the moderating role of social capital"
+  authors:
+    - family-names: Iyioku
+      given-names: Gospel
+    - family-names: Donkor
+      given-names: Ebenezer
+    - family-names: Mazancova
+      given-names: Jana
+    - family-names: Hejkrlik
+      given-names: Jiri
+  year: 2024
+  journal: "Cogent Food & Agriculture"
+  volume: "10"
+  issue: "1"
+  start: "2433600"
+  doi: "10.1080/23311932.2024.2433600"
+  url: "https://doi.org/10.1080/23311932.2024.2433600"
