@@ -2,7 +2,8 @@
 
 A reusable SEM tutorial with a separate worked example showing how a published study's measurement model, structural paths, and effect tables connect to code.
 
-**All runnable observation datasets are independently synthetic. They reproduce the examples' calculations, not the paper's numerical findings.** No original participant records or private computer paths are included. The approved paper reference retains its published author information; this is not an anonymous release.
+**All runnable observation datasets are independently synthetic. They reproduce the examples' calculations. ** No original participant records are included.
+The approved paper reference retains its published author information; this is not an anonymous release.
 
 ## Choose a workflow
 
